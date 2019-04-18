@@ -9,4 +9,3 @@ A React Native mobile app that has a search interface for movies and TV shows.
 
 Click on a title to show additional information from the IMDB databse.
 
-![app gif](https://github.com/dillon/cs50-mobile-projects/blob/master/project2/movies.gif?raw=true)
